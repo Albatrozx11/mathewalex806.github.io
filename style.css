@@ -1,0 +1,117 @@
+.img1{
+    width: 290px;
+    height: 150px;
+}
+.imgm{
+  margin-left: 480px;
+  margin-top: 15px;
+}
+
+.searchbutton{
+    margin-left: 480px;
+    padding: 0px;
+    height: 30px;
+    font-size: 12pt; 
+    width: 800px;
+    margin-top: 30px;
+}
+
+.bar{
+    margin:0 auto;
+    width:575px;
+    border-radius:39px;
+    border:2px solid #0000005e;
+  }
+  .bar:hover{
+    box-shadow: 1px 1px 8px 2px #dcdcdc;
+  }
+  .bar:focus-within{
+    box-shadow: 1px 1px 8px 2px #dcdcdc;
+    outline:none;
+  }
+  .searchbar{
+    height:45px;
+    border:none;
+    width:500px;
+    font-size:16px;
+    outline: none;
+    
+  }
+  .feelbutton{
+    margin-top: -30px;
+    margin-left: 630px;
+  }
+
+.link1{
+  margin-top: 20px;
+  margin-left: 1000px;
+}
+.link2{
+  margin-top: -24px;
+  margin-left: 1115px;
+}
+
+.linkcss{
+  color: black;
+}
+
+.linkcss:hover{
+  text-underline-position: below;
+  color: rgb(66 ,133, 244);
+}
+
+.searchbuttonimage{
+  margin-left: 560px;
+  margin-top: 30px;
+}
+
+.miccss{
+  height: 22px;
+  width: 22px;
+}
+.mic{
+   margin-top: -40px;
+   margin-left: 890px;
+}
+
+.link3{
+  margin-top: 20px;
+  margin-left: 1115px;
+}
+
+.adimg{
+  margin-left: 15px;
+  margin-top: -30px;
+}
+.adimgcss{
+  width: 75px;
+  height: 40px;
+
+}
+.heading{
+  color: rgb(219 ,68 ,55);
+  margin-top: 20px;
+  margin-left: 50px;
+  font-size: 16pt;
+}
+hr{
+  margin-top: -100px;
+  margin-bottom: 30px;
+}
+.text1{
+  margin-left: 50px;
+  font-size: 10pt;
+}
+.subtext{
+  margin-left: 850px;
+  font-size: 8pt;
+  color: gray;
+  margin-top: -35px;
+}
+.text2{
+  margin-left: 50px;
+  font-size: 14pt;
+}
+.advsearch{
+  margin-left: 650px;
+}
